@@ -1,0 +1,13 @@
+#root {
+  max-width: 100%;
+  text-align: center;
+}
+img{
+  width: 500px;
+  height: 300px;
+  border-radius: 7px;
+
+}
+body {
+  background-color: rgb(237, 235, 235);
+}
